@@ -1,4 +1,5 @@
 ✨ Rock-Paper-Scissors Game using Python
+
 This is a simple and fun Python-based Rock-Paper-Scissors game where the player competes against the computer. The game follows the classic rules:
 
 🪨 Rock crushes Scissors
@@ -7,11 +8,13 @@ This is a simple and fun Python-based Rock-Paper-Scissors game where the player 
 
 📄 Paper covers Rock
 
+
 You can play the game in two formats:
 
 1.Console version (basic input/output)
 
 2.GUI version using Tkinter for an interactive experience
+
 
 💡 Features
 
@@ -24,6 +27,7 @@ You can play the game in two formats:
 4.Beginner-friendly Python logic
 
 5.GUI version with buttons and result display
+
 
 🛠️ Technologies Used
 
