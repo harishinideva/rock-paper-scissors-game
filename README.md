@@ -35,8 +35,5 @@ You can play the game in two formats:
 
 2.Tkinter (for GUI)
 
-## 📸 Output Screenshot
-
-![Game Output](screenshot.png)
 
 
