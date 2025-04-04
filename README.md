@@ -8,12 +8,16 @@ This is a simple and fun Python-based Rock-Paper-Scissors game where the player 
 
 📄 Paper covers Rock
 
+----
+
 
 You can play the game in two formats:
 
 1.Console version (basic input/output)
 
 2.GUI version using Tkinter for an interactive experience
+
+-----
 
 
 💡 Features
@@ -28,12 +32,15 @@ You can play the game in two formats:
 
 5.GUI version with buttons and result display
 
+------
 
 🛠️ Technologies Used
 
 1.Python
 
 2.Tkinter (for GUI)
+
+------
 
 
 
